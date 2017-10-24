@@ -1,5 +1,5 @@
 package com.company;
-//Travis Gray 
+//Travis Gray
 import java.util.ArrayList;
 import java.util.Scanner;
 
